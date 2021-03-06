@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/13167954/110192830-57f1b680-7e0f-11eb-8ea5-144ad3d13e46.png)
+
 # Essa é minha tragetória no curso de bacharelado em Ciência da Computação😄
 
 ## Matérias
