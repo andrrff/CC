@@ -1,4 +1,4 @@
-# Essa é minha tragetória no curso de bacharelado de Ciência da Computação😄
+# Essa é minha tragetória no curso de bacharelado em Ciência da Computação😄
 
 Matérias
 
