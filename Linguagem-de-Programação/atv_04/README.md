@@ -7,7 +7,7 @@ Crie um resumo do que você pesquisou evidenciando as diferenças e vantagens de
  [Algoritmo Logica para Programacao de Computadores Edicao 24º](https://github.com/andrrff/CC/files/6094571/algoritmo_.Logica.para.programacao.de.computadores.edicao24.pdf.pdf)
 
 # Build
-`gcc [arquivo].c && ./a`
+`gcc main.c && ./a`
 
 # Resumo
 Na linguagem existem duas maneiras para passagem de valores para uma função, são elas, por referência e por valor, a princípio a diferença pode parecer sutil, mas não podemos nos enganar. Enquanto a passagem de valor passará uma cópia do valor original, não sendo possível este ser modificado na `main()`, agora usando a referência a história é outra, podemos usar o valor “original” na memória e modificá-lo como bem quiser.
