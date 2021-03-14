@@ -8,6 +8,6 @@ Para fazer essa atividade crie um novo tipo de variável usando uma estrutura de
  [Algoritmo Logica para Programacao de Computadores Edicao 24º](https://github.com/andrrff/CC/files/6094571/algoritmo_.Logica.para.programacao.de.computadores.edicao24.pdf.pdf)
 
 # Build
-`gcc [arquivo].c && ./a`
+`gcc main.c && ./a`
 
 # Professor: [Emmanuel Silva Xavier](https://github.com/emmanuelXavier)
