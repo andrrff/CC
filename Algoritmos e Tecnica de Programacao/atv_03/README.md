@@ -1,4 +1,4 @@
-#Enunciado
+# Enunciado
 Cria o diagrama de blocos para os algoritmos da Atividade 02
 
 # Solução
